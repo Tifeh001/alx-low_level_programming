@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_square - print a sqaure of size size 
- * @size: size of the sqaure 
+ * print_square - print a sqaure of size size
+ * @size: size of the sqaure
  * Return: Always 0.
  */
 void print_square(int size)
